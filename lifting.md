@@ -1,2 +1,0 @@
-- can't pass props from children to parents.
-- 
