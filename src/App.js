@@ -79,9 +79,9 @@ class App extends Component {
                 </Title>
 
                 <Container>
-                    <Row>
+                    
                         {this.state.teams.map(team => (
-                            <Column size="md-3 sm-6">
+                            
                             <TeamCard
                             key={team.id}
                             handleClick={this.handleClick}
@@ -91,9 +91,9 @@ class App extends Component {
                             id={team.id}
                             image={team.image}
                             />
-                            </Column>
+                           
                         ))}
-                    </Row>
+                    
                 </Container>
 
 
