@@ -4,11 +4,9 @@ import Nav from "./components/Nav";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import Container from "./Container";
-import Row from "./Row";
-import Column from "./Column";
 import teams from "./teamlist.json";
 import './App.css';
-
+//Function to shuffle the images.
 function shuffleTeams(array) {
     for (let i = array.length -1; i > 0; i--) {
         let j = Math.floor(Math.random() * (i +1));
@@ -25,7 +23,7 @@ class App extends Component {
         goodBad: "",
         clicked: []
     };
-
+//Function to deal with the clicking of the mouse.
     handleClick = id => {
         if (this.state.clicked.indexOf(id) === -1) {
             this.handleIncrement();
@@ -35,6 +33,7 @@ class App extends Component {
         }
         
     };
+    //Function to increase the score.
     handleIncrement = () => {
         const newScore = this.state.currentScore + 1;
         this.setState({
@@ -48,7 +47,7 @@ class App extends Component {
         }
         this.handleShuffle();
     };
-    
+    //Function to reset the game when a player loses.
     handleReset = () => {
         this.setState({
             currentScore: 0,
@@ -58,12 +57,12 @@ class App extends Component {
         });
         this.handleShuffle()
     };
-
+//Shuffles the images
     handleShuffle = () => {
         let shuffledTeams = shuffleTeams(teams);
         this.setState({ teams: shuffledTeams });
     };
-
+//Actually renders the page.
     render() {
         return (
             <Wrapper>
@@ -81,7 +80,7 @@ class App extends Component {
                 <Container>
                     
                         {this.state.teams.map(team => (
-                            
+                            //Louis helped me edit this so it would put the cards into rows.
                             <TeamCard
                             key={team.id}
                             handleClick={this.handleClick}
@@ -105,4 +104,4 @@ class App extends Component {
 
 export default App;
 
-// 07-Ins-Mern Help
+

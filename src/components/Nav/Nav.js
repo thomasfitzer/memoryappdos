@@ -1,6 +1,6 @@
 import React from "react";
 import "./Nav.css";
-
+// This displays the navbar at the top.
 const Nav = props => (
   <nav>
     <ul>
