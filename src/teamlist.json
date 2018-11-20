@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "California Golden Seals",
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F61PcJa5Mr%252BL._UX466_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2Fborizcustoms-Gilles-Meloche-California-Novelty%2Fdp%2FB07BJH26V8&docid=yqHM9_gRSNG3lM&tbnid=rJeh3a7YfwrdmM%3A&vet=10ahUKEwiFjLT9xuDeAhUDHDQIHVKwC20QMwiPASgFMAU..i&w=466&h=382&bih=762&biw=1536&q=golden%20seals%20jersey&ved=0ahUKEwiFjLT9xuDeAhUDHDQIHVKwC20QMwiPASgFMAU&iact=mrc&uact=8",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61PcJa5Mr%2BL._UX466_.jpg",
     "clicked": false
   },
   {
     "id": 2,
     "name": "Minnesota North Stars",
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flf.lids.com%2Fhwl%3Fset%3Dsku%5B20749212%5D%2Cc%5B2%5D%2Cw%5B1000%5D%2Ch%5B750%5D%26call%3Durl%5Bfile%3Aproduct%5D&imgrefurl=https%3A%2F%2Fwww.lids.com%2Fminnesota-north-stars-reebok-nhl-mens-team-classic-jersey%2F20749212&docid=Ks_-w3M_VnPwQM&tbnid=WcIjccpFAiaz0M%3A&vet=10ahUKEwjctN-byODeAhWp7oMKHejwBsMQMwikASgCMAI..i&w=1000&h=750&bih=762&biw=1536&q=north%20stars%20jersey&ved=0ahUKEwjctN-byODeAhWp7oMKHejwBsMQMwikASgCMAI&iact=mrc&uact=8",
+    "image": "https://lf.lids.com/hwl?set=sku[20749212],c[2],w[1000],h[750]&call=url[file:product]",
     "clicked": false
   },
   {
     "id": 3,
     "name": "Hartford Whalers",
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flf.lids.com%2Fhwl%3Fset%3Dsku%5B20749222%5D%2Cc%5B2%5D%2Cw%5B1000%5D%2Ch%5B750%5D%26call%3Durl%5Bfile%3Aproduct%5D&imgrefurl=https%3A%2F%2Fwww.lids.com%2Fhartford-whalers-reebok-nhl-mens-team-classic-jersey%2F20749222&docid=W67HsmRp3D8lSM&tbnid=BJCp8VziW5erFM%3A&vet=10ahUKEwjj04XRyODeAhUrqoMKHWSkCcYQMwjTASgCMAI..i&w=1000&h=750&bih=762&biw=1536&q=hartford%20whalers%20jersey&ved=0ahUKEwjj04XRyODeAhUrqoMKHWSkCcYQMwjTASgCMAI&iact=mrc&uact=8",
+    "image": "https://lf.lids.com/hwl?set=sku[20749222],c[2],w[1000],h[750]&call=url[file:product]",
     "clicked": false
   },
   {
     "id": 4,
     "name": "Pittsburgh Penguins",
-    "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiRov34yODeAhVqpoMKHW8MB1sQjRx6BAgBEAU&url=http%3A%2F%2Fwww.sportfansedge.com%2Fmens-reebok-nhl-pittsburgh-penguins-72-patric-hornqvist-light-blue-third-jersey-authentic-p-68041.html&psig=AOvVaw1UmDCD5aIAuvYEWowlFgwC&ust=1542720782334886",
+    "image": "http://www.sportfansedge.com/images/NHL/Pittsburgh%20Penguins/Patric%20Hornqvist/Men's%20Reebok%20NHL%20Pittsburgh%20Penguins%2072%20Patric%20Hornqvist%20Authentic%20Light%20Blue%20Third%20Jersey.jpg",
     "clicked": false
   },
   {
     "id": 5,
     "name": "Los Angeles Kings",
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F71KCaLOR0sL._SY450_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FAngeles-Reebok-Vintage-Premier-Purple%2Fdp%2FB00MZEZTF0&docid=BNDTEqZXLKtcPM&tbnid=1LZ1UDY-ij4c5M%3A&vet=10ahUKEwjP-K-QyeDeAhVh5YMKHa-rClYQMwhqKAAwAA..i&w=371&h=450&bih=762&biw=1536&q=la%20kings%20purple%20jerseys&ved=0ahUKEwjP-K-QyeDeAhVh5YMKHa-rClYQMwhqKAAwAA&iact=mrc&uact=8",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71KCaLOR0sL._SL1200_.jpg",
     "clicked": false
   },
   {
     "id": 6,
     "name": "Colorado Rockies",
-    "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjswNCwyeDeAhUPo4MKHdHQAOQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.sportsk.com%2Frockies-nhl-customized-jersey.html&psig=AOvVaw1FpJtH8cfjvLkv4S-rtGrG&ust=1542720904514324",
+    "image": "https://dyn1.heritagestatic.com/lf?set=path%5B1%2F5%2F9%2F8%2F2%2F15982220%5D%2Csizedata%5B850x600%5D&call=url%5Bfile%3Aproduct.chain%5D",
     "clicked": false
   },
   {
     "id": 7,
     "name": "Calgary Flames",
-    "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjYi-jDyeDeAhUK4YMKHW5rCBUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.sportsk.com%2Fvintage-calgary-flames-patch-jersey.html&psig=AOvVaw01VcTbtt_V7niphhd6jxdB&ust=1542720944461900",
+    "image": "https://sep.yimg.com/ay/sports-k/vintage-calgary-flames-ccm-jersey-1989-stanley-cup-patch-4.gif",
     "clicked": false
   },
   {
     "id": 8,
     "name": "Quebec Nordiques",
-    "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiU4r-PyuDeAhUC34MKHbsNCEsQjRx6BAgBEAU&url=https%3A%2F%2Fwww.sportsk.com%2Fquebec-nordiques-blue-vintage-jersey.html%3Fviewfullsite%3D1&psig=AOvVaw1ElIP2XSgvgAw_SzemXvFt&ust=1542721105940444",
+    "image": "https://sep.yimg.com/ay/sports-k/quebec-nordiques-blue-vintage-jersey-13.gif",
     "clicked": false
   },
   {
     "id": 9,
     "name": "Seattle Metropolitans",
-    "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjo09eiyuDeAhXr7YMKHWOrC3IQjRx6BAgBEAU&url=https%3A%2F%2Fwww.ebbets.com%2Fproducts%2Fseattle-metropolitans-1917-authentic-hockey-sweater&psig=AOvVaw3koY9ZZRywPNPtk1dDhuoO&ust=1542721145830399",
+    "image": "https://cdn.shopify.com/s/files/1/1487/1618/products/Seattle-Metropolitans-Authentic-Hockey-Sweater.jpg?v=1525380079",
     "clicked": false
   },
   {
     "id": 10,
     "name": "Phoenix Coyotes",
-    "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiLnrXhyuDeAhWoHjQIHSwKDu4QjRx6BAgBEAU&url=https%3A%2F%2Fwww.lids.com%2Fphoenix-coyotes-ccm-nhl-mens-authentic-classic-jersey%2F20954899&psig=AOvVaw1e8k1BAhR1E4YPUG5Wteqy&ust=1542721276166382",
+    "image": "https://lf.lids.com/hwl?set=sku[20954899],c[2],w[1000],h[750]&call=url[file:product]",
     "clicked": false
   },
   {
     "id": 11,
     "name": "Minnesota Fighting Saints",
-    "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjvifuuy-DeAhWDITQIHWheBG4QjRx6BAgBEAU&url=https%3A%2F%2Fwww.amazon.com%2FMinnesota-Fighting-Saints-Vintage-Hockey%2Fdp%2FB014OFRE0U&psig=AOvVaw1BZ3Inl5kWHMIj5R2_sqUa&ust=1542721434810536",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71HThzGwRCL._SL1466_.jpg",
     "clicked": false
   },
   {
     "id": 12,
     "name": "Charlestown Chiefs",
-    "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiQ0uHBy-DeAhUlCTQIHYsuAF4QjRx6BAgBEAU&url=https%3A%2F%2Fwww.amazon.com%2FCharlestown-Chiefs-Blue-Jersey-XXXX-L%2Fdp%2FB00OBS4BS4&psig=AOvVaw0jetoYllg3geEp2Z-usqAq&ust=1542721477158132",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71-2GXQZWoL._SL1418_.jpg",
     "clicked": false
   }
 ]

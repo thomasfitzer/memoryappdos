@@ -2,7 +2,7 @@
 
 .wrapper {
     padding-top: 50px;
-    background: #ECEFF1;
+    background: #fff;
     height: 100%;
     display: flex;
     flex-flow: row wrap;
@@ -11,3 +11,5 @@
     align-content: flex-start;
     overflow: auto;
   }
+
+  
